@@ -18,9 +18,11 @@ Display | 1920 x1200 / 2000 x 1100 / 2000 x 1200 pixels
 ![mmqmem](https://img2.imgtp.com/2024/03/05/FdGtaESF.jpg)
 
 ## To use it:
+A slot
 ```
 dd if=/sdcard/vendor_boot.img of=/dev/block/by-name/vendor_boot_a
 ```
+B slot
 ```
 dd if=/sdcard/vendor_boot.img of=/dev/block/by-name/vendor_boot_b
 ```
