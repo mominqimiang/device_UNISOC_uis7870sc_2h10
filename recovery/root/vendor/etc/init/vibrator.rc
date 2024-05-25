@@ -1,4 +1,0 @@
-service vendor.sprd.hardware.vibrator-service /vendor/bin/hw/vendor.sprd.hardware.vibrator-service
-    class hal
-    user system
-    group system
